@@ -29,6 +29,8 @@ So by using 7.4V 8000 mAh battery our circuit will operate for:
 So approximately and without consedring real life losses this battery can run the robot for 10 and a half hours!
 
 
+
+
 # Circuit Connections
 
 By using this connection shown in the picture and replacing the 9V battery and connecting arduino though Vin:
