@@ -5,11 +5,17 @@
 After calculating current consumption as following:
 
 2x Potentiometer = 0.04 mA
+
 2x LED = 40mA
+
 5x Servo motor = 500mA
+
 Ultrasonic = 30 mA
+
 h-bridge = 200mA
+
 Arduino Uno = 11.4 mA
+
 total current consumption = 770.04 mA
 
 So by using 7.4V 8000 mAh battery our circuit will operate for:
